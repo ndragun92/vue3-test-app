@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center items-center h-full">
-    <div class="w-12 h-12 border-4 border-indigo-400 rounded-full loader"></div>
+    <div class="w-12 h-12 border-4 border-indigo-400 rounded-full loader" />
   </div>
 </template>
 

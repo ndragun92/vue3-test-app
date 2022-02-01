@@ -1,9 +1,4 @@
 <template>
-<!--  <div id="nav">-->
-<!--    <router-link to="/">Home</router-link> |-->
-<!--    <router-link to="/about">About</router-link>-->
-<!--  </div>-->
-<!--  <router-view/>-->
  <div class="container mx-auto p-10">
    <div class="bg-gray-200 p-10 text-center mb-8 rounded-md">
      <ui-button class="mb-4" @click="get">Reload single fact</ui-button>
